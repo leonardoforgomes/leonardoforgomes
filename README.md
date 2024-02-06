@@ -1,7 +1,7 @@
 # Olá! Me chamo Leonardo Gomes 👋
 
 - 👨🏼‍💻 Atualmente trabalho como Assistente de Sistemas 
-- 📚 Estudando Java, Springboot, git 
+- 📚 Estudando Java, Spring Boot, git 
 - 💻 Estudante Dev Back-end
 
 ![Leonardo Github status](https://github-readme-stats.vercel.app/api?username=leonardoforgomes&show_icons=true&theme=radical)
