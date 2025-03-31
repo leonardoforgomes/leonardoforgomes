@@ -1,6 +1,5 @@
 # Olá! Me chamo Leonardo Gomes 👋
 
-- 👨🏼‍💻 Atualmente trabalho como Analista de Sistemas Jr. 
 - 📚 Estudando Java, Spring Boot, git, MySql
 - 💻 Estudante Dev Back-end
 
