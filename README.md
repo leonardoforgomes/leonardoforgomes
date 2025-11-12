@@ -1,7 +1,24 @@
 # Olá! Me chamo Leonardo Gomes 👋
 
-- 📚 Estudando Java, Spring Boot, git, MySql
-- 💻 Estudante Dev Back-end
+💼 Busco oportunidade para atuar como **Analista de Sistemas**, aplicando meus conhecimentos em desenvolvimento e experiência com TOTVS RM.
+
+### 🛠️ Tecnologias e Conhecimentos
+
+**💼 Experiência profissional**
+- TOTVS RM
+- Relatório TReports  
+- Consultas SQL Server  
+- XML
+
+
+**📚 Projetos pessoais e acadêmicos (Desenvolvimento)**
+- Java • Spring Boot • JPA/Hibernate  
+- MySQL • PostgreSQL  
+- Git • GitHub • Azure DevOps  
+- API REST  
+- JavaScript • HTML • CSS  
+- Python  
+
 
 ![Leonardo Github status](https://github-readme-stats.vercel.app/api?username=leonardoforgomes&show_icons=true&theme=radical)
 
