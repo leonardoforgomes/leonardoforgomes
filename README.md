@@ -1,6 +1,7 @@
 # Olá! Me chamo Leonardo Gomes 👋
 
-💼 Busco oportunidade para atuar como **Analista de Sistemas**, aplicando meus conhecimentos em desenvolvimento e experiência com TOTVS RM.
+Busco oportunidade para atuar como **Analista de Sistemas**, aplicando meus conhecimentos em desenvolvimento de software
+e experiência com TOTVS RM.
 
 ### 🛠️ Tecnologias e Conhecimentos
 
